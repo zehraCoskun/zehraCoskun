@@ -8,6 +8,5 @@
 
 
 
-<!-- [![Zehra's github stats](https://github-readme-stats.vercel.app/api?username=zehraCoskun&theme=blue-green)](https://github.com/zehraCoskun/github-readme-stats) 
+![Uploading Ekran Resmi 2023-08-01 21.53.04.png…]()
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zehraCoskun&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) --->
