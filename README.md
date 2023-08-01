@@ -9,5 +9,6 @@
 
 
 
-![Screenshot](![Uploading Ekran Resmi 2023-08-01 21.53.04.png…]())
+<img width="355" alt="picture" src="https://github.com/zehraCoskun/zehraCoskun/assets/110024096/9cd5aad3-411d-465d-bf86-59d102b1cdfe">
+
 
