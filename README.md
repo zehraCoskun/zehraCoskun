@@ -9,6 +9,6 @@
 
 
 
-<img width="100" alt="picture" src="https://github.com/zehraCoskun/zehraCoskun/assets/110024096/9cd5aad3-411d-465d-bf86-59d102b1cdfe">
+
 
 
