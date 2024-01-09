@@ -20,6 +20,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zehraCoskun)](https://git.io/streak-stats)
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zehracoskun&" alt="zehracoskun" /></p>
+
+
+
 
 
 
