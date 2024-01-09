@@ -1,13 +1,9 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Zehra</h1>
 
 - 🔭 I’m currently working on Swift & Flutter
 - 🌱 I’m currently learning UIKit, SwiftUI and Flutter
-- 📫 How to reach me: [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/zehraunalcoskun/) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/zehra#9965)
 - ⚡ Fun fact:  Once upon a time, I practiced law. Now I code mobile apps and am much happier. Who knew?😄
-
-
-<h1 align="center">Hi 👋, I'm Zehra</h1>
+- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zehracoskun&label=Profile%20views&color=0e75b6&style=flat" alt="zehracoskun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zehracoskun" alt="zehracoskun" /></a> </p>
