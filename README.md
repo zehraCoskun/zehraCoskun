@@ -20,6 +20,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zehracoskun&show_icons=true&locale=en&layout=compact" alt="zehracoskun" /></p>
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zehracoskun)](https://git.io/streak-stats)
+
+
 
 
 
