@@ -36,4 +36,4 @@
   <img src="https://streak-stats.demolab.com/?user=zehraCoskun" alt="GitHub Streak" />
 </p>
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=zehraxcoskun&limit=4&bg=b4d5d9&text=ff0000)](https://medium.com/@omidnikrah)
+[![Zehra Coşkun Medium](https://github-readme-medium.vercel.app/?username=zehraxcoskun=2&bg=b4d5d9&text=ff0000)](https://medium.com/@zehraxcoskun)
