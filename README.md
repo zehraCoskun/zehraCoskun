@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Zehra</h1>
-
-![b507f9ca5ea81d5693f48f7d11b59ed6](https://github.com/zehraCoskun/zehraCoskun/assets/110024096/57047b03-dd04-4dab-9f49-f4bd2cd21116)
-
-
-
-- 🔭 I’m currently working on Swift & Flutter
-- 🌱 I’m currently learning UIKit, SwiftUI and Flutter
-- ⚡ Fun fact:  Once upon a time, I practiced law. Now I code mobile apps and am much happier. Who knew?😄
+<p align="center">
   
+<div style="display: flex; align-items: center; justify-content: center;">
+    <div style="flex: 1;">
+        <p align="center">
+            <img src="https://github.com/zehraCoskun/zehraCoskun/assets/110024096/57047b03-dd04-4dab-9f49-f4bd2cd21116"/>
+        </p>
+    </div>
+    <div style="flex: 1; padding-left: 20px;">
+        <ul>
+            <li>🔭 I’m currently working on Swift & Flutter</li>
+            <li>🌱 I’m currently learning UIKit, SwiftUI and Flutter</li>
+            <li>⚡ Fun fact: Once upon a time, I practiced law. Now I code mobile apps and am much happier. Who knew?😄</li>
+        </ul>
+    </div>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 
