@@ -7,7 +7,7 @@
   </td>
   <td>
 
-- 🔭 I’m currently working on Swift & Flutter
+- 🔭 I’m currently working on Mobile Development
 - 🌱 I’m currently learning UIKit, SwiftUI and Flutter
 - ⚡ Fun fact:  Once upon a time, I practiced law. Now I code mobile apps and am much happier. Who knew?😄</td>
 
